@@ -14,4 +14,5 @@ MENTOR:NEELA SANTOSH
 Overview of the Project
 
 Task 1: API Integration and Data Visualization
+output:
 <img width="1018" height="554" alt="Image" src="https://github.com/user-attachments/assets/43a9c59a-8436-4934-9602-ff66befff49f" />
